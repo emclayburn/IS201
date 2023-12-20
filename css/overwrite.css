@@ -1,0 +1,33 @@
+Body{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: darkblue;
+}
+
+p{
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+    font-size: larger;
+    text-decoration: overline;
+}
+
+a:visited{
+    color: brown;
+}
+
+.outline{
+    padding: 5px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.underline{
+    text-decoration: underline;
+}
